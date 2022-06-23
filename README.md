@@ -13,8 +13,8 @@ To start the application server:
 
 
 ## Generator Used
-mix phx.new light_credit --binary-id
-mix phx.gen.live CreditEvaluation Question questions category step_number:integer question_text points:integer
+* mix phx.new light_credit --binary-id
+* mix phx.gen.live CreditEvaluation Question questions category step_number:integer question_text points:integer
 
 ## tOdOS
 1. Add unit test and integration tests.
